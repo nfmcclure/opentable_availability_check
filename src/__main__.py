@@ -2,7 +2,7 @@
 
 date: 2021-12-24
 
-author: nick@hitch.works
+author: nfmcclure @ github
 
 script: __main__.py
 
